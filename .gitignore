@@ -1,0 +1,11 @@
+# Ignore python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+
+venv/
+mywebsite/__pycache__/
+resume/__pycache__/
+db.sqlite3
+resume/migrations/
